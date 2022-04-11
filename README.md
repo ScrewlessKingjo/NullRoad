@@ -2,6 +2,8 @@
 
 ### 최우수상 수상
 
+![image](https://user-images.githubusercontent.com/92324214/162732272-ff7abaf7-373e-4eae-a387-67de6281a5fd.png)
+
 ## 건물주, 운전자를 이어주는 주차장 공유 플랫폼
 
 개발 인원 : 윤상운, 김오현, 김현식, 박민, 이승지, 장우영
